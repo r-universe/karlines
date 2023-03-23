@@ -3,3 +3,78 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AquaEnv"]
+	path = AquaEnv
+	url = https://github.com/cran/AquaEnv
+	shallow = true
+	registered = true
+[submodule "bvpSolve"]
+	path = bvpSolve
+	url = https://github.com/cran/bvpSolve
+	shallow = true
+	registered = true
+[submodule "deTestSet"]
+	path = deTestSet
+	url = https://github.com/cran/deTestSet
+	shallow = true
+	registered = true
+[submodule "diagram"]
+	path = diagram
+	url = https://github.com/cran/diagram
+	shallow = true
+	registered = true
+[submodule "ecolMod"]
+	path = ecolMod
+	url = https://github.com/cran/ecolMod
+	shallow = true
+	registered = true
+[submodule "LIM"]
+	path = LIM
+	url = https://github.com/cran/LIM
+	shallow = true
+	registered = true
+[submodule "limSolve"]
+	path = limSolve
+	url = https://github.com/cran/limSolve
+	shallow = true
+	registered = true
+[submodule "marelac"]
+	path = marelac
+	url = https://github.com/cran/marelac
+	shallow = true
+	registered = true
+[submodule "NetIndices"]
+	path = NetIndices
+	url = https://github.com/cran/NetIndices
+	shallow = true
+	registered = true
+[submodule "OceanView"]
+	path = OceanView
+	url = https://github.com/cran/OceanView
+	shallow = true
+	registered = true
+[submodule "plot3D"]
+	path = plot3D
+	url = https://github.com/cran/plot3D
+	shallow = true
+	registered = true
+[submodule "plot3Drgl"]
+	path = plot3Drgl
+	url = https://github.com/cran/plot3Drgl
+	shallow = true
+	registered = true
+[submodule "ReacTran"]
+	path = ReacTran
+	url = https://github.com/cran/ReacTran
+	shallow = true
+	registered = true
+[submodule "rootSolve"]
+	path = rootSolve
+	url = https://github.com/cran/rootSolve
+	shallow = true
+	registered = true
+[submodule "shape"]
+	path = shape
+	url = https://github.com/cran/shape
+	shallow = true
+	registered = true
