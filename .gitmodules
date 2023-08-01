@@ -5,6 +5,18 @@
 [submodule "AquaEnv"]
 	path = AquaEnv
 	url = https://github.com/cran/AquaEnv
+[submodule "LIM"]
+	path = LIM
+	url = https://github.com/cran/LIM
+[submodule "NetIndices"]
+	path = NetIndices
+	url = https://github.com/cran/NetIndices
+[submodule "OceanView"]
+	path = OceanView
+	url = https://github.com/cran/OceanView
+[submodule "ReacTran"]
+	path = ReacTran
+	url = https://github.com/cran/ReacTran
 [submodule "bvpSolve"]
 	path = bvpSolve
 	url = https://github.com/cran/bvpSolve
@@ -17,30 +29,18 @@
 [submodule "ecolMod"]
 	path = ecolMod
 	url = https://github.com/cran/ecolMod
-[submodule "LIM"]
-	path = LIM
-	url = https://github.com/cran/LIM
 [submodule "limSolve"]
 	path = limSolve
 	url = https://github.com/cran/limSolve
 [submodule "marelac"]
 	path = marelac
 	url = https://github.com/cran/marelac
-[submodule "NetIndices"]
-	path = NetIndices
-	url = https://github.com/cran/NetIndices
-[submodule "OceanView"]
-	path = OceanView
-	url = https://github.com/cran/OceanView
 [submodule "plot3D"]
 	path = plot3D
 	url = https://github.com/cran/plot3D
 [submodule "plot3Drgl"]
 	path = plot3Drgl
 	url = https://github.com/cran/plot3Drgl
-[submodule "ReacTran"]
-	path = ReacTran
-	url = https://github.com/cran/ReacTran
 [submodule "rootSolve"]
 	path = rootSolve
 	url = https://github.com/cran/rootSolve
