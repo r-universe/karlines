@@ -17,12 +17,6 @@
 [submodule "ReacTran"]
 	path = ReacTran
 	url = https://github.com/cran/ReacTran
-[submodule "bvpSolve"]
-	path = bvpSolve
-	url = https://github.com/cran/bvpSolve
-[submodule "deTestSet"]
-	path = deTestSet
-	url = https://github.com/cran/deTestSet
 [submodule "diagram"]
 	path = diagram
 	url = https://github.com/cran/diagram
