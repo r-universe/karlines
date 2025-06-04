@@ -25,7 +25,7 @@
 	url = https://github.com/cran/ecolMod
 [submodule "limSolve"]
 	path = limSolve
-	url = https://github.com/cran/limSolve
+	url = https://github.com/karlines/limsolve
 [submodule "marelac"]
 	path = marelac
 	url = https://github.com/cran/marelac
