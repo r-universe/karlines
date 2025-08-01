@@ -5,9 +5,6 @@
 [submodule "AquaEnv"]
 	path = AquaEnv
 	url = https://github.com/cran/AquaEnv
-[submodule "LIM"]
-	path = LIM
-	url = https://github.com/karlines/lim
 [submodule "NetIndices"]
 	path = NetIndices
 	url = https://github.com/cran/NetIndices
